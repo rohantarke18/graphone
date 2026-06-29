@@ -1,0 +1,185 @@
+# GraphOne Frontend Engineering Trial
+
+A pixel-perfect frontend implementation of the **GraphOne AI Intelligence Platform** built as part of the **Frontend Engineer Trial Assignment**.
+
+The project focuses on recreating the provided UI references using a modern React-based stack while maintaining clean architecture, reusable components, and responsive design.
+
+---
+
+## 🚀 Live Demo
+
+**Frontend:**
+https://YOUR-VERCEL-LINK.vercel.app
+
+---
+
+## 📂 GitHub Repository
+
+https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
+
+---
+
+# 📸 Implemented Screens
+
+### ✅ AI Companies Home
+
+* Trending AI Companies
+* Fastest Growing Startups
+* AI Categories
+* Unicorn Companies
+* Featured Collections
+* Search & Navigation
+
+---
+
+### ✅ Company Detail (OpenAI)
+
+* Company Overview
+* Funding Timeline
+* Investors
+* Founders
+* Products
+* Acquisitions
+* Investments
+* Competitors
+* Ecosystem Graph
+* News
+* Research Papers
+* Patents
+* Similar Companies
+
+---
+
+### ✅ Investors Discovery
+
+* Featured Investors
+* Categories
+* Investment Focus
+* Trending Investors
+* Discovery Cards
+
+---
+
+# ✨ Features
+
+* Pixel-perfect UI implementation
+* Fully Responsive Design
+* Component-Based Architecture
+* Reusable UI Components
+* TypeScript
+* Tailwind CSS
+* Framer Motion Animations
+* Clean Folder Structure
+* Smooth Hover Effects
+* Optimized Layout
+* Mock Data Integration
+* Modern UI/UX
+
+---
+
+# 🛠 Tech Stack
+
+| Technology    | Purpose         |
+| ------------- | --------------- |
+| Next.js       | React Framework |
+| TypeScript    | Type Safety     |
+| Tailwind CSS  | Styling         |
+| Framer Motion | Animations      |
+| Lucide React  | Icons           |
+
+---
+
+# 📁 Project Structure
+
+```text
+src/
+│
+├── app/
+│
+├── components/
+│   ├── company/
+│   ├── investor/
+│   ├── navigation/
+│   ├── shared/
+│   └── ui/
+│
+├── data/
+│
+├── hooks/
+│
+├── lib/
+│
+├── styles/
+│
+├── types/
+│
+└── utils/
+```
+
+---
+
+# ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+```
+
+Move into the project
+
+```bash
+cd YOUR_REPOSITORY
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run locally
+
+```bash
+npm run dev
+```
+
+Visit
+
+```text
+http://localhost:3000
+```
+
+---
+
+# 🎯 Objectives
+
+* Recreate the provided GraphOne UI references
+* Maintain reusable component architecture
+* Ensure responsive layouts
+* Deliver production-ready frontend code
+* Focus on scalability and maintainability
+
+---
+
+# 📌 Future Improvements
+
+* Backend API Integration
+* Authentication
+* Dynamic Database Integration
+* Global Search
+* AI-powered Recommendations
+* Real-time Company Updates
+* Interactive Charts
+* Dark Mode
+* Performance Optimizations
+
+---
+
+# 👨‍💻 Developed By
+
+**Rohan Tarke**
+
+Frontend Engineer Trial Submission
+
+Built using **Next.js • TypeScript • Tailwind CSS**
