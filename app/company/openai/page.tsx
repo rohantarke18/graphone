@@ -258,8 +258,16 @@ export default function OpenAICompanyPage() {
     <div style={{ flex: 1 }}>
       <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 6 }}>
         <h1 style={{ fontSize: 24, fontWeight: 700, margin: 0, color: "#0f172a" }}>OpenAI</h1>
-        <span style={{ background: "#DBEAFE", color: "#1D4ED8", fontSize: 11, borderRadius: 4, padding: "2px 7px", fontMedium: 500 }}>✔ Verified</span>
-      </div>
+<span
+  style={{
+    fontSize: 11,
+    borderRadius: 4,
+    padding: "2px 7px",
+    fontWeight: 500,   // ✅ Correct
+  }}
+>
+  ✔ Verified
+</span>      </div>
       <p style={{ fontSize: 13, color: "#334155", margin: "0 0 12px", lineHeight: 1.6, fontWeight: 500 }}>
         AI research and deployment company building safe and beneficial artificial general intelligence.
       </p>
